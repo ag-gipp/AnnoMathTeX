@@ -4,7 +4,7 @@ SPARQLWrapper==1.8.2
 html2text==2018.1.9
 TexSoup==0.1.4
 beautifulsoup4==4.7.1
-Django==2.2.18
+Django==2.2.20
 html2text==2018.1.9
 idna==2.8
 pytz==2018.7
